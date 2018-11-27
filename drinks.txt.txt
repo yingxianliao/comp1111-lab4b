@@ -1,3 +1,6 @@
 milk
 coffee
 tea
+juicee
+winee
+cokee
