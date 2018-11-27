@@ -1,6 +1,6 @@
 cellphone
 computer
 printer
-cameraaaaa
-microphoneeeee
-routerrrrrr
+camera
+microphone
+router
