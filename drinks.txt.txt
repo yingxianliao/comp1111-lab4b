@@ -1,3 +1,6 @@
 milk
 coffee
 tea
+juice
+wine
+coke
