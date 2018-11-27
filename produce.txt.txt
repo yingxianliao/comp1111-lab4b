@@ -1,3 +1,6 @@
 cellphone
 computer
 printer
+camera
+microphone
+router
