@@ -7,3 +7,8 @@ router
 watch
 door
 car
+computer
+printer
+camera
+microphone
+router
