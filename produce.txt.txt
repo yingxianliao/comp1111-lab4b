@@ -1,6 +1,9 @@
 cellphone
-computer
+TV
 printer
 camera
 microphone
 router
+watch
+door
+car
